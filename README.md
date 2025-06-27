@@ -11,9 +11,13 @@ Major:
 ### 📫 Get In Touch
 - Email: 1306375963@qq.com
 
+<!--访问量-->
+![Visitor Count](https://profile-counter.glitch.me/zhizhib/count.svg)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhizhib)
 
 <!--常用语言-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhizhib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhizhib&layout=compact&theme=tokyonight)
 
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=zhizhib&theme=dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhizhib&theme=react-dark&days=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
