@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 只只
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7490C&width=435&lines=%F0%9F%92%96Hi++!+!+!++I+am+zhizhib+%E2%9D%A4%EF%B8%8F;Nice+to+meet+you;The+major+is+Digital+Media+Technology.;I+am+currently+learning+back-end+development.)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 Major:
