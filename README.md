@@ -10,3 +10,8 @@ Major:
 
 ### 📫 Get In Touch
 - Email: 1306375963@qq.com
+
+<!--常用语言-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhizhib)
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=zhizhib&theme=dark)
